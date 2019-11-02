@@ -1,14 +1,14 @@
 # Chat-Application
  
 ## INSTALLATIONS
-1)node.js 
-2)npm package management
-3)npx package management
+- 1)node.js 
+- 2)npm package management
+- 3)npx package management
 To check this packages 
 Open Microsoft Terminal or Powershell and check this commands
-npm -v
-npx -v
-node -v
+- npm -v
+- npx -v
+- node -v
 
 
 ## Run Project
