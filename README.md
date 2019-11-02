@@ -24,4 +24,4 @@ Then open localhost:3000 port
 
 
 
-**NOT:**Thanks for Traversy Media for tutorials
+** NOT: ** Thanks for Traversy Media for tutorials
