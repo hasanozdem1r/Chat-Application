@@ -1,6 +1,6 @@
 # Chat-Application
  
-INSTALLATIONS
+##INSTALLATIONS
 1)node.js 
 2)npm package management
 3)npx package management
@@ -10,7 +10,7 @@ npm -v
 npx -v
 node -v
 
-Run Project
+##Run Project
 After the changes the code you have to start script file.
 I used for this git bash. Because more effective and helpful for developers
 Open Gitbash in Javascript file folder. (for me server.js)
