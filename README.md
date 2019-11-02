@@ -13,9 +13,9 @@ Open Microsoft Terminal or Powershell and check this commands
 
 ## Run Project
 After the changes the code you have to start script file.
-- I used for this git bash. Because more effective and helpful for developers
-- Open Gitbash in Javascript file folder. (for me server.js)
-- Write this code to check project
--- node server (if it's ok console show you server running messages
+I used for this git bash. Because more effective and helpful for developers
+Open Gitbash in Javascript file folder. (for me server.js)
+Write this code to check project
+''' node server (if it's ok console show you server running messages '''
 Then open localhost:3000 port
 
